@@ -1,0 +1,6 @@
+[submodule "project-News-web"]
+	path = project-News-web
+	url = https://github.com/Developer-Students-Club-MAIT/project-News-web
+[submodule "minimilist-weatherapp"]
+	path = minimilist-weatherapp
+	url = https://github.com/Developer-Students-Club-MAIT/minimilist-weatherapp
